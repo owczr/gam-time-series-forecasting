@@ -1,2 +1,4 @@
-# gam-time-series-forecasting
-Forecasting wastewater time-series with Generalized Additive Model (GAM)
+# GAM Model for Time-Series Forecasting
+## About
+Repository for Time Series Forecasting with Generalized Additive Models (GAM) case study. This case study explores and implements GAM model for accurate time series predictions on wastewater data from Sandomierz. 
+This project includes a Jupyter notebook demonstrating the application of GAM model, providing insights, aiding in forecasting future trends in the wastewater time series dataset.
